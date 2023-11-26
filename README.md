@@ -6,7 +6,7 @@
 
 # Hi, I'm Nakaraboyina Ramkumar! 👋
 
-Welcome to my GitHub profile. I'm enthusiastic about creating engaging user interfaces and solving problems with Python. Currently, I'm actively seeking opportunities in both **Frontend Development** and **Python Development** roles.
+Welcome to my GitHub profile. I'm enthusiastic about creating engaging user interfaces and solving problems with Python. I'm actively seeking opportunities in both **Frontend Development** and **Python Development** roles.
 
 ## About Me
 
@@ -28,10 +28,7 @@ Welcome to my GitHub profile. I'm enthusiastic about creating engaging user inte
 
 Here are some of the projects I've been working on:
 
-- KBC game using Python(link to project): Short description.
-- [Project 2](link to project): Short description.
-
-Feel free to explore my repositories for more!
+- KBC game using Python(https://github.com/RamkumarNakaraboina/KBC-GAME-Project): Feel free to explore my repositories for more! This is a console-based implementation of the famous "Kaun Banega Crorepati" game using Python. The game features a series of multiple-choice questions of increasing difficulty. Players start with easy questions and can win virtual money as they progress. Each correct answer earns them more money, but the questions become progressively harder.
 
 ## Let's Connect
 
