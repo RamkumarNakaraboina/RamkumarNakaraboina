@@ -18,7 +18,7 @@ Welcome to my GitHub profile. I'm enthusiastic about creating engaging user inte
 
 ## My GitHub Stats
 
-![Nakaraboyina Ramkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Nakaraboyina Ramkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?RamkumarNakaraboina&show_icons=true&theme=radical)
 
 ## Skills
 
