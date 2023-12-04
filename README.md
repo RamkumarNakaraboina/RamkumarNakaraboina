@@ -20,10 +20,6 @@ Welcome to my GitHub profile. I'm enthusiastic about creating engaging user inte
 - 🔗 LinkedIn: [Nakaraboyina Ramkumar](https://www.linkedin.com/in/nakaraboyina-ram-kumar/)
 - 📂 GitHub: [RamkumarNakaraboina](https://github.com/RamkumarNakaraboina)
 
-## GitHub Stats
-
-![Ramkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamkumarNakaraboina&show_icons=true&theme=radical)
-
 ## Projects
 
 Here are some of the projects I've been working on:
